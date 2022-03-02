@@ -13,3 +13,4 @@
   <a href = "mailto:millafalcao.acad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 </br>
+<img src="https://3.bp.blogspot.com/-t6HtdNawCaI/WL6w_m1A88I/AAAAAAAAZDQ/mv0S9_3jankKfM3jsHzo1nGZ1qzfML5VACLcB/s1600/Gifs%2Banimados%2BLula%2BMolusco%2B2.gif" align="right" />
