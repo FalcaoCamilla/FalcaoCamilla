@@ -1,4 +1,4 @@
-## Oii :) <img src="https://2.bp.blogspot.com/-GLIJoYW9DWE/WL6w9Z4iwtI/AAAAAAAAZDE/vwQMvSs_2a0GmrqUyKu-CAJhjjvFeDpZACLcB/s1600/Gifs%2Banimados%2BLula%2BMolusco%2B1.gif" align="right" width="80" height="70" />
+## Oii :) <img src="https://i.imgur.com/e8bW6J2.gif align="right" width="80" height="70" />
 
  <div>
   <a href="https://github.com/FalcaoCamilla">
