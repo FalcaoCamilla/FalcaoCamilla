@@ -1,4 +1,4 @@
-## Oii :) <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ilikesticker.com%2FLineStickerAnimation%2FS0005601-SpongeBob-SquarePants-Express-Yourself%2Fen&psig=AOvVaw21qMWp38_vgYE9TQTl3lI3&ust=1646343514159000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiu89WxqPYCFQAAAAAdAAAAABAS" align="right" width="80" height="70" />
+## Oii :) <img src="https://i.gifer.com/ZlXg.gif" align="right" width="80" height="70" />
 
  <div>
   <a href="https://github.com/FalcaoCamilla">
