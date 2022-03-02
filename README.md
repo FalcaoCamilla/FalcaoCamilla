@@ -1,4 +1,4 @@
-## Oii :) <img src="https://i.ibb.co/vcPcF4g/Private-GIF-unscreen.gif" align="right" width="120" height="120" />
+## Bem vindo, mas nem tanto <img src="https://i.ibb.co/vcPcF4g/Private-GIF-unscreen.gif" align="right" width="120" height="120" />
 
  <div>
   <a href="https://github.com/FalcaoCamilla">
