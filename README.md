@@ -1,4 +1,4 @@
-## Oii :) <img src="https://imgur.com/e8bW6J2" align="right" width="80" height="70" />
+## Oii :) <img src="http://fuckyeah-pixels.tumblr.com/" align="right" width="80" height="70" />
 
  <div>
   <a href="https://github.com/FalcaoCamilla">
