@@ -1,4 +1,4 @@
-## Oii :) <img src="https://ibb.co/yNyN9FG" align="right" width="80" height="70" />
+## Oii :) <img src="https://i.ibb.co/vcPcF4g/Private-GIF-unscreen.gif" align="right" width="80" height="70" />
 
  <div>
   <a href="https://github.com/FalcaoCamilla">
