@@ -7,10 +7,14 @@
 </div>
 
 ##
-💖 Informática no IFRN
-💖 Estagiária de Desenvolvimento de Software na Belt Sistemas
-💖 Dev. Front-end em formação
-💖 Curiosa e muito dedicada!
+
+
+
+<p>💖 Informática no IFRN</p>
+<p>💖 Estagiária de Desenvolvimento de Software na Belt Sistemas</p>
+<p>💖 Dev. Front-end em formação</p>
+<p>💖 Curiosa e muito dedicada!</p>
+
 ##
 
 <h3 align="left">Skills:</h3>
