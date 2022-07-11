@@ -1,4 +1,4 @@
-## Oie, pode me chamar de Milla :) <img src="https://i.ibb.co/vcPcF4g/Private-GIF-unscreen.gif" align="right" width="120" height="120" />
+## Oie, pode me chamar de Milla :) <img src="https://i.ibb.co/vcPcF4g/Private-GIF-unscreen.gif" align="right" width="80" height="80" />
 
  <div>
   <a href="https://github.com/FalcaoCamilla">
