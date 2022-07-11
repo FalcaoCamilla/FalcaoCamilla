@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/FalcaoCamilla">
-  <img  aling="left" height="170em"  src="https://github-readme-stats.vercel.app/api?username=FalcaoCamilla&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img aling="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalcaoCamilla&layout=compact&langs_count=7&theme=radical"/>
+  <img  aling="left" height="150em"  src="https://github-readme-stats.vercel.app/api?username=FalcaoCamilla&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img aling="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalcaoCamilla&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
