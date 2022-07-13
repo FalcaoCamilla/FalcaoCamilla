@@ -9,7 +9,7 @@
 ##
 
 
-
+<h4>
 <p>💖 Informática no IFRN</p>
 <p>💖 Estagiária de Desenvolvimento de Software na Belt Sistemas</p>
 <p>💖 Dev. Front-end em formação</p>
