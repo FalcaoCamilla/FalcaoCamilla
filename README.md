@@ -8,15 +8,6 @@
 
 ##
 
-
-<h4>
-<p>💖 Informática no IFRN</p>
-<p>💖 Estagiária de Desenvolvimento de Software na Belt Sistemas</p>
-<p>💖 Dev. Front-end em formação</p>
-<p>💖 Curiosa e muito dedicada!</p>
-
-##
-
 <h3 align="left">Skills:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
