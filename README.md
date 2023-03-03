@@ -3,8 +3,8 @@
 <div align="center" style="display: inline_block"><br>
  
  ## 🌸 Oie, pode me chamar de Milla 🌸
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FalcaoCamilla&show_icons=true&count_private=false&hide_border=true&title_color=FFCBDB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalcaoCamilla&layout=compact&hide_border=true&title_color=FFCBDB&text_color=ffffff&bg_color=0d1117&count_private=false" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FalcaoCamilla&show_icons=true&count_private=false&hide_border=true&title_color=FFCBDB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalcaoCamilla&layout=compact&hide_border=true&title_color=FFCBDB&text_color=ffffff&bg_color=0d1117&count_private=false" />
   
 </div>
 
