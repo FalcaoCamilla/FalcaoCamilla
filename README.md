@@ -21,7 +21,6 @@
 <div align="center" style="display: inline_block"><br>
 <h2>Aprendendo</h2>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://www.php.net/images/logos/new-php-logo.svg" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40" height="40"/> </a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
